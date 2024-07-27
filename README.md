@@ -1,2 +1,2 @@
 # AI powered Tic-Tac-Toe
-Simple game of tictactoe.
+The project implements a Tic-Tac-Toe game in Python, where a user can play against an AI opponent that uses the Minimax algorithm to make moves. The game board is printed to the console, and the user inputs their moves by specifying the row and column. The AI's moves are determined by the Minimax algorithm, which recursively evaluates the best possible moves and their outcomes. The game continues until either player wins or the board is full (a tie). The project demonstrates the effectiveness of the Minimax algorithm in creating a competitive AI opponent for a simple game like Tic-Tac-Toe.
